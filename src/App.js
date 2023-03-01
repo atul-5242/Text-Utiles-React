@@ -50,6 +50,7 @@ function App() {
 
 
     // React Router Setup + Usage | Complete React Course in Hindi #16--------
+    // I have to read lecture 16.
     else{
       setMode('light');
       document.body.style.backgroundColor='white'
