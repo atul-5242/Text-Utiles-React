@@ -44,7 +44,7 @@ Navbar.protoType={title: PropTypes.string.isRequired,
                 }
 
 Navbar.defaultProps={
-  title: 'Textutile',
+  title: 'TextUtile',
   about:"About",
 };
 
